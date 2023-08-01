@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """A cript that
-- fetches https://alx-intranet.hbtn.io/status.
+- fetches http://0.0.0.0:5050/status.
 - uses urlib package
 """
 
